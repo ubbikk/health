@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mri_examinations>
+  <!-- МРТ результати Петровського Д.В. (2024-2025) -->
+  
+  <examination id="1">
+    <date>2024-03-13</date>
+    <clinic>MIRUM CLINIC</clinic>
+    <doctor>Гальченко О. Г.</doctor>
+    <equipment>MAGNETOM Sola 1.5T</equipment>
+    
+    <protocol>
+      <heart_rate>62-78 уд/хв</heart_rate>
+      <body_surface_area>1.7 м2</body_surface_area>
+      <lv_dimensions>КДРЛШ = 47 мм (EDI – 74 ml/m2)</lv_dimensions>
+      <ef>53% (норма 56-78%)</ef>
+      <wall_thickness>
+        <septum>7.5-9.2 мм</septum>
+        <inferior>5.2-6.2 мм</inferior>
+        <lateral>5.8-6.2 мм</lateral>
+        <anterior>6.2-7.2 мм</anterior>
+      </wall_thickness>
+    </protocol>
+    
+    <findings>
+      <t2_imaging>вогнищеве посилення МР-сигналу в субепі/мезокардіальних відділах середньої частини МШП та бокової стінок ЛШ. Коефіцієнт співвідношення МР-сигналу міокард ЛШ/скелетні м'язи >2.0</t2_imaging>
+      <perfusion>не порушена</perfusion>
+      <early_contrast>накопичення контрастного препарату не відмічається</early_contrast>
+      <late_contrast>дифузна затримка вимивання контрасту в субепі/мезокардіальних відділах міокарду стінок ЛШ та МШП</late_contrast>
+      <pericardium>підвищена кількість випоту в перикарді, максимальною товщиною до 6 мм, позаду від ЛШ</pericardium>
+      <functional_parameters>
+        <ef_lv>53%</ef_lv>
+        <edv>138 ml</edv>
+        <edi>81 ml/m2</edi>
+        <esv>60 ml</esv>
+        <esi>34 ml/m2</esi>
+        <sv>77 ml</sv>
+        <si>46 ml/m2</si>
+        <cardiac_output>5.34 l/min</cardiac_output>
+        <cardiac_index>3.15 l/min/m2</cardiac_index>
+      </functional_parameters>
+    </findings>
+    
+    <conclusion>Виявлені зміни міокарду лівого шлуночку обумовлені підгострим вогнищевим міокардитом (Lake Louise 2 критерія). Систолічна функція ЛШ мінімально знижена; порожнина ЛШ не розширена. Грубих субендокардіальних змін характерних для постішемічного фіброзу не виявлено.</conclusion>
+  </examination>
+  
+  <examination id="2">
+    <date>2024-05-07</date>
+    <clinic>MIRUM CLINIC</clinic>
+    <doctor>Гальченко О. Г.</doctor>
+    <equipment>MAGNETOM Sola 1.5T</equipment>
+    
+    <protocol>
+      <heart_rate>77-88 уд/хв</heart_rate>
+      <body_surface_area>1.6 м2</body_surface_area>
+      <lv_dimensions>КДРЛШ = 46 мм (EDI – 70 ml/m2)</lv_dimensions>
+      <ef>59% (норма 56-78%)</ef>
+    </protocol>
+    
+    <findings>
+      <t2_imaging>ділянок підозрілих на набряк, некроз на момент обстеження не виявлено</t2_imaging>
+      <perfusion>в спокої не порушена</perfusion>
+      <early_contrast>накопичення контрастного препарату не відмічається</early_contrast>
+      <late_contrast>вогнищева затримка вимивання контрасту в субепі/мезокардіальних відділах міокарду стінок ЛШ, більше залучена нижня та бокова стінки ЛШ та МШП</late_contrast>
+      <functional_parameters>
+        <ef_lv>59%</ef_lv>
+        <edv>114 ml</edv>
+        <edi>70 ml/m2</edi>
+        <esv>46 ml</esv>
+        <esi>28 ml/m2</esi>
+        <sv>67 ml</sv>
+        <si>42 ml/m2</si>
+        <cardiac_output>5.42 l/min</cardiac_output>
+        <cardiac_index>3.36 l/min/m2</cardiac_index>
+      </functional_parameters>
+      <pericardium>підвищена кількість випоту в перикарді, максимальною товщиною до 6 мм, позаду від ЛШ</pericardium>
+    </findings>
+    
+    <conclusion>Виявлені зміни міокарду лівого шлуночку обумовлені міокардіофіброзом неішемічного генезу, з найбільшою вірогідністю, наслідок вогнищевого міокардиту (Lake Louise 1 критерій). Систолічна функція ЛШ не знижена; порожнина ЛШ не розширена. Достовірних даних за активний запальний процес не отримано. Фіброз лівого передсердя (Utah 1 stage).</conclusion>
+  </examination>
+  
+  <examination id="3">
+    <date>2024-05-29</date>
+    <clinic>Омега-Київ</clinic>
+    <doctor>Бацак Б.В.</doctor>
+    <equipment>МРТ СЕРЦЯ З В/В КОНТРАСТУВАННЯМ Гадовіст -10мл</equipment>
+    
+    <protocol>
+      <heart_rate>75 уд/хв</heart_rate>
+      <rhythm>синусовий ритм</rhythm>
+    </protocol>
+    
+    <findings>
+      <t2_criteria>
+        <t2_stir>МР ознак набряку міокарда немає</t2_stir>
+        <t2_coefficient>1.5-1.9/1 (норма до 2)</t2_coefficient>
+        <t2_mapping>41-44 мс (норма до 54мс)</t2_mapping>
+      </t2_criteria>
+      <t1_criteria>
+        <t1_mapping>980-1040 мс (норма 964.6 ± 35.3, 895-1035 мс)</t1_mapping>
+        <ecv>22-28% (норма 25.4 ± 2.5%)</ecv>
+      </t1_criteria>
+      <ege>слабо інтенсивне, 11,12 сегментах ЛШ</ege>
+      <lge>
+        <intramyocardial>Лінійне в 2,6,8 сегменті; Дрібні вогнища в 5,7,9 сегментах</intramyocardial>
+        <subepicardial>Дрібні вогнища в 5,11 сегментах</subepicardial>
+        <subendocardial>відсутнє</subendocardial>
+      </lge>
+      <functional_parameters>
+        <ef>56%</ef>
+        <edv>131 ml</edv>
+        <edi>81 ml/m2</edi>
+        <esv>57 ml</esv>
+        <esi>36 ml/m2</esi>
+        <lavi>29 ml/m2</lavi>
+      </functional_parameters>
+      <pericardium>визначається накопичення контрастної речовини в проекції передньої та бокової стінки ЛШ, в проекції 5 сегмента ЛШ ознаки слабо вираженого набряку</pericardium>
+    </findings>
+    
+    <conclusion>МР ознаки хронічного перикардиту (ознаки слабо вираженого запалення в проекції 5 сегмента ЛШ) – ФВ ЛШ 56%, КДІ ЛШ 81 мл/м.кв. LAVI 29 мл/м2. МР ознак активного міокардиту немає (слабо позитивні Т1 і негативні Т2 LCC критерії міокардиту)</conclusion>
+  </examination>
+  
+  <examination id="4">
+    <date>2024-07-10</date>
+    <clinic>Омега-Київ</clinic>
+    <doctor>Бацак Б.В.</doctor>
+    <equipment>МРТ СЕРЦЯ З В/В КОНТРАСТУВАННЯМ Гадовіст -10мл</equipment>
+    
+    <findings>
+      <t2_criteria>
+        <t2_stir>МР ознак набряку міокарда немає</t2_stir>
+        <t2_coefficient>1.2-1.8/1 (норма до 2)</t2_coefficient>
+        <t2_mapping>39-48 мс (норма до 54мс)</t2_mapping>
+      </t2_criteria>
+      <t1_criteria>
+        <t1_mapping>970-990 мс (норма 964.6 ± 35.3, 895-1035 мс)</t1_mapping>
+        <ecv>26-28% (норма 25.4 ± 2.5%)</ecv>
+      </t1_criteria>
+      <ege>слабо інтенсивне, субепікардіальне в 5,6,11,12 сегментах</ege>
+      <lge>
+        <intramyocardial>Лінійне в 2,3,9 сегментах; Вогнища в проекції задньої міжшлуночкової борозни</intramyocardial>
+        <subepicardial>Лінійне в 4,5,6,11 сегментах</subepicardial>
+      </lge>
+      <functional_parameters>
+        <ef>56%</ef>
+        <edv>125 ml</edv>
+        <edi>78 ml/m2</edi>
+        <esv>55 ml</esv>
+        <esi>34 ml/m2</esi>
+        <lavi>30 ml/m2</lavi>
+      </functional_parameters>
+      <pericardium>випіт до 3 мм, переважно в ділянці бічної стінки ЛШ; визначається накопичення контрастної речовини в проекції 4,5,6,11 сегментів ЛШ в поєднанні з потовщенням до 2 мм та ознаками слабо вираженого набряку</pericardium>
+    </findings>
+    
+    <conclusion>МР ознаки хронічного, локального перикардиту. ФВ ЛШ 56%, КДІ ЛШ 78 мл/м.кв., LAVI 30 мл/м2. МР ознак активного міокардиту немає (слабо позитивні Т1 і негативні Т2 LCC критерії міокардиту). У порівнянні з дослідженням від 29.05.2024 позитивна динаміка (відсутні прояви набряку міокарда, ознаки набряку перикарда суттєво нижчі)</conclusion>
+  </examination>
+  
+  <examination id="5">
+    <date>2024-10-07</date>
+    <clinic>Омега-Київ</clinic>
+    <doctor>Бацак Б.В.</doctor>
+    <equipment>МРТ СЕРЦЯ З В/В КОНТРАСТУВАННЯМ Гадовіст -10мл</equipment>
+    
+    <findings>
+      <t2_criteria>
+        <t2_stir>МР ознак набряку міокарда немає</t2_stir>
+        <t2_coefficient>1.4-1.9/1 (норма до 2)</t2_coefficient>
+        <t2_mapping>40-46 мс (норма до 54мс)</t2_mapping>
+      </t2_criteria>
+      <t1_criteria>
+        <t1_mapping>970-1010 мс (норма 964.6 ± 35.3, 895-1035 мс)</t1_mapping>
+        <ecv>25-27% (норма 25.4 ± 2.5%)</ecv>
+      </t1_criteria>
+      <ege>середньої інтенсивності, субепікардіальне в 5,6,11,12 сегментах</ege>
+      <lge>
+        <intramyocardial>Лінійне в 2,8 сегментах; дрібні множинні вогнища в 6,12 сегментах; Вогнища в проекції задньої міжшлуночкової борозни</intramyocardial>
+        <subepicardial>Лінійне в 4,11,12 сегментах</subepicardial>
+        <subendocardial>Лінійне в тканинах ЛП</subendocardial>
+      </lge>
+      <functional_parameters>
+        <ef>56%</ef>
+        <edv>121 ml</edv>
+        <edi>75 ml/m2</edi>
+        <esv>54 ml</esv>
+        <esi>33 ml/m2</esi>
+        <lavi>31.8 ml/m2</lavi>
+      </functional_parameters>
+      <pericardium>МР ознак видимої, значущої патології немає; визначається слабоінтенсивне накопичення контрастної речовини в проекції передньої та бокової стінки ЛШ, перикард потовщений до 2 мм</pericardium>
+    </findings>
+    
+    <conclusion>МР ознаки перенесеного перикардиту, вогнищевий міокардіофіброз легкого ступеня. ФВ ЛШ 56%, КДІ ЛШ 75 мл/м.кв., LAVI 31 мл/м2. МР ознак активного міокардиту немає. У порівнянні з дослідженням від 10.07.2024 позитивна динаміка – відсутні прояви набряку/запалення перикарду. Ознак констриктивного перикардиту немає</conclusion>
+  </examination>
+  
+  <examination id="6">
+    <date>2025-01-21</date>
+    <clinic>MIRUM CLINIC</clinic>
+    <doctor>Гальченко О. Г.</doctor>
+    <equipment>MAGNETOM Sola 1.5T</equipment>
+    
+    <protocol>
+      <heart_rate>77-88 уд/хв</heart_rate>
+      <body_surface_area>1.6 м2</body_surface_area>
+      <lv_dimensions>КДРЛШ = 52 мм (EDI – 77 ml/m2)</lv_dimensions>
+      <ef>46% (норма 56-78%)</ef>
+      <wall_thickness>
+        <septum>5.5-10.3 мм</septum>
+        <inferior>5.2-6.8 мм</inferior>
+        <lateral>5.8-6.6 мм</lateral>
+        <anterior>6.2-8.6 мм</anterior>
+      </wall_thickness>
+    </protocol>
+    
+    <findings>
+      <t2_imaging>вогнищеве посилення МР-сигналу в субепі/мезокардіальних відділах МШП та передньої стінок ЛШ. Коефіцієнт співвідношення МР-сигналу міокард ЛШ/скелетні м'язи >2.0 (елементи набряку)</t2_imaging>
+      <perfusion>в спокої не порушена</perfusion>
+      <early_contrast>накопичення контрастного препарату не відмічається</early_contrast>
+      <late_contrast>дифузна затримка вимивання контрасту в субепі/мезокардіальних відділах міокарду стінок ЛШ (більше залучена нижня та бокова стінки ЛШ) та МШП</late_contrast>
+      <atrial_fibrosis>Фіброз лівого передсердя, більше виражено на рівні впадіння легеневих вен, максимально до 10% (Utah 1 stage)</atrial_fibrosis>
+      <functional_parameters>
+        <ef_lv>46%</ef_lv>
+        <edv>126 ml</edv>
+        <edi>77 ml/m2</edi>
+        <esv>68 ml</esv>
+        <esi>42 ml/m2</esi>
+        <sv>58 ml</sv>
+        <si>37 ml/m2</si>
+        <cardiac_output>3.42 l/min</cardiac_output>
+        <cardiac_index>2.06 l/min/m2</cardiac_index>
+      </functional_parameters>
+      <pericardium>підвищена без особливостей</pericardium>
+      <pleural>Мінімальне скупчення рідини, товщиною до 7 мм(зліва) та 8 мм(справа)</pleural>
+    </findings>
+    
+    <conclusion>Виявлені зміни міокарду лівого шлуночку - неішемічного генезу, з найбільшою вірогідністю, обумовлені вогнищевим міокардитом (Lake Louise 2 критерія) більше даних за підгострий перебіг. Систолічна функція ЛШ знижена; порожнина ЛШ не розширена. Мінімальний двосторонній ексудативний плеврит. Фіброз лівого передсердя (Utah 1 stage).</conclusion>
+  </examination>
+  
+  <examination id="7">
+    <date>2025-03-17</date>
+    <clinic>Омега-Київ</clinic>
+    <doctor>Бацак Б.В.</doctor>
+    <equipment>МРТ СЕРЦЯ З В/В КОНТРАСТУВАННЯМ Гадовіст -10мл</equipment>
+    
+    <findings>
+      <t2_criteria>
+        <t2_stir>МР ознак набряку міокарда немає</t2_stir>
+        <t2_coefficient>1.4-1.8/1 (норма до 2)</t2_coefficient>
+        <t2_mapping>40-49 мс (норма до 54мс)</t2_mapping>
+      </t2_criteria>
+      <t1_criteria>
+        <t1_mapping>990-1020 мс (норма 964.6 ± 35.3, 895-1035 мс)</t1_mapping>
+        <ecv>25-29% (норма 25.4 ± 2.5%)</ecv>
+      </t1_criteria>
+      <ege>середньої інтенсивності, в тканинах перикарда</ege>
+      <lge>
+        <intramyocardial>дрібні множинні вогнища в 2,8 сегментах; Вогнища в проекції задньої міжшлуночкової борозни</intramyocardial>
+        <subepicardial>Лінійне 6,10 сегментах ЛШ</subepicardial>
+        <subendocardial>Лінійне в ЛП та ПП</subendocardial>
+      </lge>
+      <functional_parameters>
+        <ef>60%</ef>
+        <edv>122 ml</edv>
+        <edi>77 ml/m2</edi>
+        <esv>48 ml</esv>
+        <esi>30 ml/m2</esi>
+        <lavi>32.2 ml/m2</lavi>
+      </functional_parameters>
+      <pericardium>визначається накопичення контрастної речовини в проекції бокової стінки ЛШ</pericardium>
+    </findings>
+    
+    <conclusion>МР ознаки хронічного перикардиту. ФВ ЛШ 60%, КДІ ЛШ 77 мл/м.кв.. LAVI 32 мл/м2, ЛП із ознаками міокардіофіброзу. МР ознак активного міокардиту немає (негативні Т1 і Т2 LCC критерії міокардиту). МР ознак КМП немає. МР ознак перенесеного інфаркту міокарда немає</conclusion>
+  </examination>
+  
+  <examination id="8">
+    <date>2025-04-01</date>
+    <clinic>Омега-Київ</clinic>
+    <doctor>Бацак Б.В.</doctor>
+    <equipment>МРТ СЕРЦЯ З В/В КОНТРАСТУВАННЯМ Гадовіст -10мл</equipment>
+    
+    <findings>
+      <t2_criteria>
+        <t2_stir>МР ознак набряку міокарда немає</t2_stir>
+        <t2_coefficient>1.5-1.9/1 (норма до 2)</t2_coefficient>
+        <t2_mapping>41-44 мс (норма до 54мс)</t2_mapping>
+      </t2_criteria>
+      <t1_criteria>
+        <t1_mapping>960-1020 мс (норма 964.6 ± 35.3, 895-1035 мс)</t1_mapping>
+        <ecv>22-27% (норма 25.4 ± 2.5%)</ecv>
+      </t1_criteria>
+      <ege>середньої інтенсивності, в тканинах перикарда в проекції 5,6,11,12,16 сегментах</ege>
+      <lge>
+        <intramyocardial>Лінійне в 2 сегментах</intramyocardial>
+        <subepicardial>Лінійне в 6,11,12 сегментах ЛШ</subepicardial>
+        <subendocardial>Лінійне в тканинах ЛП</subendocardial>
+      </lge>
+      <functional_parameters>
+        <ef>57%</ef>
+        <edv>110 ml</edv>
+        <edi>70 ml/m2</edi>
+        <esv>47 ml</esv>
+        <esi>30 ml/m2</esi>
+        <lavi>21.5 ml/m2</lavi>
+      </functional_parameters>
+      <pericardium>визначається накопичення контрастної речовини в проекції 5,6,12 сегментів ЛШ в поєднанні з ознаками слабо вираженого набряку</pericardium>
+    </findings>
+    
+    <conclusion>МР ознаки локального, хронічного перикардиту. ФВ ЛШ 57%, КДІ ЛШ 70 мл/м.кв.. LAVI 21 мл/м2. У порівнянні з дослідженням від 17.03.2025 без суттєвої динаміки. МР ознак активного міокардиту немає (негативні Т1 і Т2 LCC критерії міокардиту). МР ознак КМП немає. МР ознак перенесеного інфаркту міокарда немає</conclusion>
+  </examination>
+  
+  <examination id="9">
+    <date>2025-05-07</date>
+    <clinic>Омега-Київ</clinic>
+    <doctor>Бацак Б.В.</doctor>
+    <equipment>МРТ СЕРЦЯ З В/В КОНТРАСТУВАННЯМ Гадовіст -10мл</equipment>
+    
+    <findings>
+      <t2_criteria>
+        <t2_stir>МР ознак набряку міокарда немає</t2_stir>
+        <t2_coefficient>1.3-1.7/1 (норма до 2)</t2_coefficient>
+        <t2_mapping>42-46 мс (норма до 54мс)</t2_mapping>
+      </t2_criteria>
+      <t1_criteria>
+        <t1_mapping>960-1005 мс (норма 964.6 ± 35.3, 895-1035 мс)</t1_mapping>
+        <ecv>24-26% (норма 25.4 ± 2.5%)</ecv>
+      </t1_criteria>
+      <ege>середньої інтенсивності, субепікардіальне в 5,6,11,12,16 сегментах</ege>
+      <lge>
+        <intramyocardial>Лінійне в 2,8 сегментах</intramyocardial>
+        <subepicardial>Лінійне в 5,6,12 сегментах ЛШ</subepicardial>
+      </lge>
+      <functional_parameters>
+        <ef>55%</ef>
+        <edv>111 ml</edv>
+        <edi>72 ml/m2</edi>
+        <esv>50 ml</esv>
+        <esi>33 ml/m2</esi>
+        <lavi>18.6 ml/m2</lavi>
+      </functional_parameters>
+      <pericardium>визначається слабоінтенсивне накопичення контрастної речовини в проекції бокової стінки ЛШ</pericardium>
+    </findings>
+    
+    <conclusion>МР ознак активного міокардиту немає. Локальний перикардит в стадії розрішення. ФВ ЛШ 55%, КДІ ЛШ 72 мл/м.кв.. LAVI 18 мл/м</conclusion>
+  </examination>
+  
+  <examination id="10">
+    <date>2025-08-11</date>
+    <clinic>Омега-Київ</clinic>
+    <doctor>Бацак Б.В.</doctor>
+    <equipment>МРТ СЕРЦЯ З В/В КОНТРАСТУВАННЯМ Гадовіст -10мл</equipment>
+    
+    <findings>
+      <t2_criteria>
+        <t2_stir>МР ознак набряку міокарда немає</t2_stir>
+        <t2_coefficient>1-1.6/1 (норма до 2)</t2_coefficient>
+        <t2_mapping>43-45 мс (норма до 54мс)</t2_mapping>
+      </t2_criteria>
+      <t1_criteria>
+        <t1_mapping>950-1020 мс (норма 964.6 ± 35.3, 895-1035 мс)</t1_mapping>
+        <ecv>22-25% (норма 25.4 ± 2.5%)</ecv>
+      </t1_criteria>
+      <ege>середньої інтенсивності, субепікардіальне в 5,6,11,12 сегментах</ege>
+      <lge>
+        <intramyocardial>Лінійне в 2,8 сегментах; Дрібні вогнища в 3,4,9,10 сегментах</intramyocardial>
+        <subepicardial>Лінійне в 12 сегментах ЛШ</subepicardial>
+      </lge>
+      <functional_parameters>
+        <ef>55%</ef>
+        <edv>119 ml</edv>
+        <edi>77 ml/m2</edi>
+        <esv>54 ml</esv>
+        <esi>35 ml/m2</esi>
+        <lavi>32.5 ml/m2</lavi>
+      </functional_parameters>
+      <pericardium>МР ознак видимої, значущої патології немає; визначається накопичення контрастної речовини в проекції 5,6,7,12 сегментів ЛШ, в поєднанні ознаками слабо вираженого набряку в проекції 5,6 сегментів ЛШ</pericardium>
+    </findings>
+    
+    <conclusion>локальний перикардит в стадії розрішення. ФВ ЛШ 55%, КДІ ЛШ 77 мл/м.кв.. LAVI 32 мл/м2, у порівнянні з дослідженням від 01.07.2025 без суттєвих змін</conclusion>
+  </examination>
+  
+</mri_examinations>
