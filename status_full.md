@@ -1,6 +1,6 @@
 ## Document Status
-**Last Updated:** November 19, 2025  
-**Coverage Period:** December 2021 - November 2025  
+**Last Updated:** February 20, 2026
+**Coverage Period:** December 2021 - February 2026
 **Note:** This document represents the medical situation and findings as of the last update date.
 
 ## Patient Demographics
@@ -612,6 +612,47 @@ These findings provide objective evidence of:
 - Bile presence that might contribute to symptoms
 - No structural abnormalities that would fully explain symptoms
 
+### 24-Hour Impedance-pH Monitoring (January 15, 2026)
+
+Study performed off acid suppression. Duration: 24h 13min. Catheter with impedance sensors at 3, 5, 7, 9, 15, 17 cm and pH sensors at LES+5 and LES-10.
+
+**Acid Exposure — Completely Normal:**
+- Distal esophageal acid exposure time: **0.0%** (normal <4.0% by Lyon consensus)
+- Zero acid episodes detected (upright and recumbent)
+- DeMeester composite score: **0.8** (normal <14.7)
+- Gastric pH exposure: 0.1% total — normal
+
+**Reflux Episode Activity (Impedance) — Pathologic:**
+- Total reflux episodes: **145** (normal ≤40 by Lyon, <73 conventional)
+  * Upright: 20 episodes
+  * Recumbent: **125 episodes**
+- Episode breakdown by type:
+  * Acid: **0**
+  * Weakly acidic: **19**
+  * Weakly alkaline: **126** (87% of all episodes)
+- Pathologic by Lyon criteria (>80 = supportive of GERD diagnosis)
+
+**Proximal Extent:**
+- 14.5% of all reflux episodes (21/145) reached proximal level (15 cm above LES)
+- Proximal migration more common during upright position (40% of upright vs 10.4% of recumbent episodes)
+
+**Symptom Correlation:**
+- 1 heartburn event reported during study
+- Symptom Index (SI): 0.0%, Symptom Association Probability (SAP): 0.0%
+- No correlation between reported symptoms and detected reflux episodes
+
+**Mean Nocturnal Baseline Impedance (MNBI):**
+- MNBI at Z5: **5008 ohms** (normal ≥2292) — normal, suggesting preserved mucosal integrity
+
+**Clinical Significance:**
+- **No acid reflux whatsoever** — PPIs have no physiological basis for benefit in this case
+- Massive **non-acid, predominantly weakly alkaline (bile) reflux**, especially in the recumbent position (125/145 episodes while lying down)
+- Strongly corroborates the endoscopic finding of concentrated green bile in the stomach (February 2025)
+- Explains the paradoxical worsening with PPI therapy: acid suppression does not address bile reflux and may worsen it by reducing gastric motility
+- Validates the clinical observation that nighttime/recumbent position worsens symptoms
+- Normal MNBI despite 145 episodes suggests this may be a relatively recent phenomenon or that alkaline reflux causes less mucosal impedance change than acid
+- The finding resolves the "Current Dilemma" regarding PPI tapering — there is objective justification to discontinue acid suppression therapy
+
 ### Gallbladder and Bile Issues
 
 Progression Over Time:
@@ -739,14 +780,14 @@ Key Characteristics:
 - Developed REAL heartburn for first time (though mild and infrequent)
 - Started 6-12 months ago - first heartburn in life
 
-### Current Dilemma
+### Current Dilemma (Resolved January 2026)
 - Attempted to taper esomeprazole and famotidine
 - Mostly goes well until:
   * Feel sour in mouth
   * Have flare
   * Feel worse next day
   * Resume medications due to misery
-- Considering 24-hour pH test (expecting minimal reflux) to justify tapering
+- **24-hour impedance-pH monitoring (January 15, 2026) confirmed: zero acid reflux, but pathologic non-acid/bile reflux (145 episodes, 87% weakly alkaline)**. PPIs have no physiological basis for use — tapering is objectively justified. See detailed results in "24-Hour Impedance-pH Monitoring" section.
 
 ### Clear Food-Symptom Connection (99% confident)
 **Trigger reliability:**
@@ -948,46 +989,55 @@ The throat/neck discomfort has several distinct patterns:
   * No improvement in throat/inflammatory symptoms
   * Mild psychological benefits observed (feeling "internal change" is possible, easier after sessions)
 
-## Ongoing Trials (Sep 2025 - Now)
-
-### 1. Escitalopram
-- **Duration**: 6 weeks on 10mg (as of November 19, 2025), now increased to 20mg
+### 14. Escitalopram
+- **Duration**: ~4 months total (started Sep 2025); 6 weeks at 10mg, then ~2 months at 20mg
 - **Purpose**: Antidepressant/anxiety management
-- **Outcome at 10mg**: 
-  * No improvement in main problem (throat/malaise/fatigue)
-  * Some mood changes: calmer, more flat
-  * Tapered to 20mg with plan to stay for 4 weeks
+- **Outcome**:
+  * No improvement in main problem (throat/malaise/fatigue) at either dose
+  * Some mood changes at 10mg: calmer, more flat
+  * Tapered off and discontinued (February 2026)
 
-### 2. Low-Dose Naltrexone (LDN)
-- **Titration Schedule**: 
-  * Started at 0.5mg, increased every 3 days: 0.5mg → 1mg → 1.5mg → 2mg → 3mg
-  * Stayed at 3mg for 1 week
-  * 4.5mg for 1 month (as of November 19, 2025)
+### 15. Low-Dose Naltrexone (LDN)
+- **Titration Schedule**: 0.5mg → 1mg → 1.5mg → 2mg → 3mg (every 3 days), then 3mg for 1 week, then 4.5mg
+- **Duration**: ~4 months total (started Sep 2025)
 - **Purpose**: Immune modulation/anti-inflammatory effects
-- **Outcome**: 
-  * No therapeutic effects observed so far
+- **Outcome**:
+  * No therapeutic effects observed
   * Possibly sleeping more, a bit difficult to wake up (may be coincidence)
-  * No other significant side effects
+  * Discontinued (early February 2026)
 
-### 3. Simethicone
+### 16. Esomeprazole + Famotidine (PPI + H2 blocker)
+- **Dosage**: Esomeprazole 20mg x2 + Famotidine 20mg x2
+- **Duration**: Multiple months
+- **Purpose**: Acid suppression for suspected GERD
+- **Outcome**:
+  * No improvement; reflux symptoms worsened on treatment
+  * 24-hour impedance-pH monitoring (January 2026) confirmed zero acid reflux — PPIs had no physiological basis for benefit
+  * Discontinued (February 2026)
+
+## Ongoing Trials (Feb 2026)
+
+### 1. Simethicone
 - **Dosage**: 120mg 3-4 times daily
-- **Duration**: Started recently (as of November 19, 2025)
+- **Duration**: Started November 2025
 - **Purpose**: Gas/bloating management
-- **Outcome**: Ongoing trial, too early to assess
+- **Outcome**: Ongoing trial
 
-## Current Treatment (as of November 19, 2025)
+## Current Treatment (as of February 20, 2026)
 
 ### Medications
-- **Pregabalin**: 75mg x2 (total duration: over 1 year; started at 75mg x2, increased to 150mg x2 for several months, decreased back to 75mg x2 two months ago)
-- **Mirtazapine**: 15mg (total duration: ~6 months; started at 15mg, increased to 30mg for ~4 months, decreased back to 15mg two months ago)
-- **Гидазепам (Gidazepam)**: 20-40mg daily, 30 mg last 2 months, consistently taking for the last 5 months total
-- **Escitalopram**: 6 weeks on 10mg - no improvement in main problem (throat/malaise/fatigue), some mood changes (calmer, more flat). Just tapered to 20mg and plan to stay for 4 weeks
-- **Low-Dose Naltrexone (LDN)**: 4.5mg for 1 month, no effects so far except sleeping more, a bit difficult to wake up (maybe coincidence)
-- **Simethicone**: 120mg 3-4 times a day (started recently, ongoing trial)
+- **Pregabalin**: 75mg x2 (total duration: over 1 year; started at 75mg x2, increased to 150mg x2 for several months, decreased back to 75mg x2)
+- **Mirtazapine**: 15mg (total duration: ~6 months; started at 15mg, increased to 30mg for ~4 months, decreased back to 15mg)
+- **Гидазепам (Gidazepam)**: 20-40mg daily, ~30mg, consistently taking for ~8 months total
+- **Simethicone**: 120mg 3-4 times a day (ongoing trial)
 - **Кориол (Coriol/Carvedilol)**: 3.125mg x2 (decreased from 6.25mg x2)
 - **Колхицин (Colchicine)**: 1mg since second myocarditis
-- **Эзомепразол (Esomeprazole)**: 20mg x2 + **Famotidine**: 20mg x2 - doesn't seem to help, reflux worsened, currently trying to taper
 - **Gaviscon Double Action**: 4-6 sticks daily
 - **Chlorhexidine gargling**: 2x daily on good days, 4-6x during flares (to prevent bacterial complications)
-- **Anti-cold drink sachets**: 2-6 sachets daily for last 3 weeks (Paracetamol 500mg + Phenylephrine HCl 10mg + Levocetirizine 1.25mg) - for symptom management
+- **Anti-cold drink sachets**: as needed (Paracetamol 500mg + Phenylephrine HCl 10mg + Levocetirizine 1.25mg) - for symptom management
 - **Latanoprost**: 1.5 mcg
+
+### Recently Discontinued
+- **Escitalopram**: Stopped ~1 week ago after ~4 months (2 months at 20mg). No improvement.
+- **Low-Dose Naltrexone (LDN)**: Stopped ~2 weeks ago after ~4 months at 4.5mg. No improvement.
+- **Esomeprazole + Famotidine**: Stopped. 24h impedance-pH confirmed zero acid reflux — no basis for acid suppression.
